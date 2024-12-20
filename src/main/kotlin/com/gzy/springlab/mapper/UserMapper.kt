@@ -1,6 +1,6 @@
 package com.gzy.springlab.mapper
 
-import com.baomidou.mybatisplus.core.mapper.BaseMapper
+//import com.baomidou.mybatisplus.core.mapper.BaseMapper
 import com.gzy.springlab.entity.User
 
 /**
@@ -12,4 +12,4 @@ import com.gzy.springlab.entity.User
  * @author gzy
  * @since 2024-09-25
  */
-interface UserMapper : BaseMapper<User?>
+//interface UserMapper : BaseMapper<User?>
